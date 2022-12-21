@@ -4,8 +4,6 @@ config.js
 
 publish.js
 
-package-lock.json
-
 license
 
 node_modules/
