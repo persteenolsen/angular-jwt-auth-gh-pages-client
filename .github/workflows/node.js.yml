@@ -30,4 +30,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to and GitHub takes gh-pages
-          FOLDER: out # The folder the action should deploy and next export uses the folder out
+          FOLDER: dist # The folder the action should deploy and next export uses the folder out
