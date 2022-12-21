@@ -1,6 +1,6 @@
 
 
-  - Angular SPA at GitHub Pages works with a secure ASP.NET Core 2.2 Web AP at Azure App Service using JWT Authentication
+  - Angular SPA at GitHub Pages works with a secure ASP.NET Core 2.2 Web AP at Azure App Service using JWT Auth
   - Angular 7 
   - TypeScript
   - Manuel configuration of Webpack 4 serving as a module bundler
